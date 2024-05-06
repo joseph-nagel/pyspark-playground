@@ -18,5 +18,5 @@ The contained examples widely follow the official documentation.
 
 ## Notebooks
 
-- [Getting started with PySpark](notebooks/getting_started.ipynb)
+- [PySpark dataframes](notebooks/data_frames.ipynb)
 
