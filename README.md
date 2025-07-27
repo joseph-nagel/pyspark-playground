@@ -4,6 +4,7 @@ A playground for getting familiarized with [PySpark](https://spark.apache.org/do
 PySpark is the Python API for Apache Spark, an open-source framework for distributed big data processing.
 The contained examples widely follow the official documentation.
 
+
 ## Getting started
 
 - PySpark can be easily installed via pip:
@@ -15,6 +16,7 @@ The contained examples widely follow the official documentation.
   ```
   pyspark
   ```
+
 
 ## Notebooks
 
