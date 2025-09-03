@@ -26,4 +26,3 @@ def download_textfile(url, save_path):
         # save text file
         with open(save_path, mode='wb') as f:
             f.write(response.content)
-

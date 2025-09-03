@@ -21,6 +21,4 @@ The contained examples widely follow the official documentation.
 ## Notebooks
 
 - [PySpark DataFrames](notebooks/data_frames.ipynb)
-
 - [ML with PySpark](notebooks/machine_learning.ipynb)
-
